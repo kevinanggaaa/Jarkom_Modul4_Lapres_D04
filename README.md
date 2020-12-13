@@ -18,12 +18,13 @@
 
 ### 3. VLSM
 
-#### Membentuk Tree dari VLSM
+#### - Membentuk Tree dari VLSM
 
 ![VLSM](/img/VLSM.png)
 
 - Lalu input ke cpt berdasarkan dari tree.
 - Contoh pada subnet A1
+
   - Pada Surabaya
 
     ![Surabaya](/img/A1_SURABAYA.JPG)
@@ -32,7 +33,7 @@
 
     ![Sampang](/img/A1_SAMPANG.JPG)
 
-#### Routing
+#### - Routing
 
 ![routing](/img/routing_vlsm.JPG)
 
