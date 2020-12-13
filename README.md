@@ -6,32 +6,35 @@
 
 ## Samuel C. Y. Sinambela -05111840000036
 
-## Menentukan Subnet
+### Menentukan Subnet
 
-![subnet](/img/subnet.JPG)  
-Server dan cloud diberikan sesuai dengan IP yang di soal.
+![subnet](/img/subnet.JPG)
 
-## Menghitung Jumlah IP dan Netask dari Tiap Subnet
+- Server dan cloud diberikan sesuai dengan IP yang di soal.
+
+### Menghitung Jumlah IP dan Netask dari Tiap Subnet
 
 ![hitung](/img/hitung_subnet.JPG)
 
-## VLSM
+### VLSM
 
-### Membentuk Tree dari VLSM
+#### Membentuk Tree dari VLSM
 
-![VLSM](/img/VLSM.png)  
-Lalu input ke cpt berdasarkan dari tree.
-Contoh pada subnet A1
+![VLSM](/img/VLSM.png)
 
-Pada Surabaya  
-![Surabaya](/img/A1_SURABAYA.JPG)  
-Pada Sampang  
-![Sampang](/img/A1_SAMPANG.JPG)
+- Lalu input ke cpt berdasarkan dari tree.
 
-### Routing
+- Contoh pada subnet A1
+  - Pada Surabaya  
+    ![Surabaya](/img/A1_SURABAYA.JPG)
+  - Pada Sampang  
+    ![Sampang](/img/A1_SAMPANG.JPG)
+
+#### Routing
 
 ![routing](/img/routing_vlsm.JPG)
-Lalu input routing ke cpt  
-Contoh pada Surabaya
+
+- Lalu input routing ke cpt
+- Contoh pada Surabaya
 
 ![Routing](/img/routing_surabaya.JPG)
